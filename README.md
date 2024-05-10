@@ -12,7 +12,7 @@ I am thrilled to present a dynamic Digital Art marketplace, meticulously crafted
 <h2>Tech Stack</h2>
 <ul>
 <li>HTML,CSS and JavaScript for the Front-End.</li>
-<li>node.js for the Back-End.</li>
+<li>Node.js for the Back-End.</li>
 <li>MySQL for the Database.</li>
 </ul>
 
