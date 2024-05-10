@@ -26,3 +26,5 @@ I am thrilled to present a dynamic Digital Art marketplace, meticulously crafted
 
 <h2>Project Status</h2>
 For a visual tour of our Digital Art marketplace, browse through the images and videos below. These snapshots offer a glimpse into the captivating features and seamless functionality of our platform.
+<h2>Social</h2>
+Linkdin-> www.linkedin.com/in/Divyshah1907
